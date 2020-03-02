@@ -1,0 +1,39 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\studentproject.dll.config
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\studentproject.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\studentproject.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Helpers.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Mvc.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Razor.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.Deployment.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.Razor.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Razor.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.Deployment.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Webpages.Razor.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Helpers.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\bin\System.Web.Mvc.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\obj\Debug\studentproject.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\obj\Debug\studentproject.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\studentproject\studentproject\obj\Debug\studentproject.pdb
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\studentproject.dll.config
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\studentproject.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\studentproject.pdb
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Helpers.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Mvc.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Razor.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Razor.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Helpers.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\System.Web.Mvc.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Tayyab\Desktop\studentproject\studentproject\obj\Debug\studentproject.csprojAssemblyReference.cache
+C:\Users\Tayyab\Desktop\studentproject\studentproject\obj\Debug\studentproject.csproj.CopyComplete
+C:\Users\Tayyab\Desktop\studentproject\studentproject\obj\Debug\studentproject.dll
+C:\Users\Tayyab\Desktop\studentproject\studentproject\obj\Debug\studentproject.pdb
