@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "addstudent";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="h3 mb-4 text-gray-800">
+    Add Student
+</h1>
+
+<form class="user">
+    <div class="form-group row">
+        <div class="col-sm-4 mb-3 mb-sm-0">
+            @Html.TextBox("first", null, new { @class = "form-control form-control-user", placeholder = "First Name" })
+        </div>
+        <div class="col-sm-4"> @*column small screen total 12*@
+            @Html.TextBox("last", null, new { @class = "form-control form-control-user", placeholder = "Last Name" })
+        </div>
+        <div class="col-sm-4">
+            @Html.TextBox("sure", null, new {@class="form-control form-control-user", placeholder="Sure Name"})
+        </div>
+    </div>
+
+    @*<div class="form-group">
+        <input type="email" class="form-control form-control-user" id="exampleInputEmail" placeholder="Email Address">
+    </div>*@
+    <div class="form-group row">
+        <div class="col-sm-8 mb-3 mb-sm-0">
+            @Html.TextBox("cell", null, new { @class = "form-control form-control-user", placeholder = "Cell number" })
+        </div>
+        <div class="col-sm-4">
+            @*column small screen total 12*@
+            @Html.TextArea("address", null, new { @class = "form-control form-control-user", placeholder = "Address" })
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-6 mb-3 mb-sm-0">
+            @Html.Password("pass", null, new { @class = "form-control form-control-user", placeholder = "Password" })
+        </div>
+        <div class="col-sm-6">
+            @Html.Password("repass", null, new { @class = "form-control form-control-user", placeholder = "Retype password" })
+        </div>
+    </div>
+    <a href="login.html" class="btn btn-primary btn-user btn-block">
+        Register Account
+    </a>
+    <hr>
+    @*<a href="index.html" class="btn btn-google btn-user btn-block">
+        <i class="fab fa-google fa-fw"></i> Register with Google
+    </a>
+    <a href="index.html" class="btn btn-facebook btn-user btn-block">
+        <i class="fab fa-facebook-f fa-fw"></i> Register with Facebook
+    </a>*@
+</form>
+
